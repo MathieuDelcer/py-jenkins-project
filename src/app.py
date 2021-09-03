@@ -1,4 +1,5 @@
-def up():
-    s="mot"
-    s2=s.title()
-    print(s2)
+#!/usr/bin/python3
+
+def up(s):
+    mot=s.title()
+    print(mot)
